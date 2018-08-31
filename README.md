@@ -9,12 +9,31 @@ http://jupyter.org/install
 
 Run `jupyter notebook` and open [deep-dream-pytorch.ipynb](deep-dream-pytorch.ipynb)
 
+Note: to improve performance set CUDA_ENABLED = True in the notebook if you have a capable Nvidia GPU.
+
 ## Examples
 
 Cloud
 
-![cloud](cloud.jpg)
+![img](cloud.jpg)
 
-Cloud_DeepDream
+DeepDream Cloud
 
-![cloud_dd](deepdream_cloud.jpg)
+![dd](deepdream_cloud.jpg)
+
+
+Waves
+
+![img](wave.jpg)
+
+DeepDream Waves
+
+![dd](deepdream_wave.jpg)
+
+Starry Night
+
+![img](starry_night.jpg)
+
+DeepDream Starry Night
+
+![dd](deepdream_starry_night.jpg)
