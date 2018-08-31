@@ -17,4 +17,4 @@ Cloud
 
 Cloud_DeepDream
 
-![cloud_dd](deepdream_output.jpg)
+![cloud_dd](deepdream_cloud.jpg)
