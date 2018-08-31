@@ -1,5 +1,5 @@
 # deep-dream-in-pytorch
-Pytorch (https://github.com/pytorch/pytorch) implementation of the deep dream computer vision algorithm
+Pytorch (https://github.com/pytorch/pytorch) implementation of the deep dream (https://en.wikipedia.org/wiki/DeepDream) computer vision algorithm
 
 Install Jupyter notebook with Anaconda
 
