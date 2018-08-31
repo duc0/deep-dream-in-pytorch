@@ -5,4 +5,4 @@ Install Jupyter notebook with Anaconda
 
 http://jupyter.org/install
 
-Run `jupyter notebook` and open `deep-dream-pytorch.ipynb`
+Run `jupyter notebook` and open [deep-dream-pytorch.ipynb](deep-dream-pytorch.ipynb)
