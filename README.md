@@ -38,7 +38,7 @@ DeepDream Starry Night
 
 ![dd](deepdream_starry_night.jpg)
 
-Fun video games with good AI
+[Fun video games with good AI](https://play.google.com/store/apps/dev?id=8454869713871668206)
 -----------------------
 -   [Tic Tac Toe](http://play.google.com/store/apps/details?id=com.popoko.gomokuvn)
 -   [Chess](http://play.google.com/store/apps/details?id=com.popoko.chessru)
